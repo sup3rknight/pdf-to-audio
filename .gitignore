@@ -5,10 +5,3 @@ venv/
 # Ignore Python cache files
 __pycache__/
 *.pyc
-
-# Ignore files inside data and exports, but keep the folders
-data/*
-!data/.gitkeep
-
-exports/*
-!exports/.gitkeep
